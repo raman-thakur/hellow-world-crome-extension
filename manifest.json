@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "hellow world",
+  "version": "1.0",
+  "descreption": "a hellow world extension",
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
